@@ -1,4 +1,4 @@
-# Guice
+# Guice [![Build Status](https://travis-ci.org/jeredm/guice.svg?branch=master)](https://travis-ci.org/jeredm/guice)
 This is an [Apache Wicket Quickstart](https://wicket.apache.org/start/quickstart.html) that integrates with Google Guice
 using the wicket-guice project. It is currently using the SNAPSHOT of Wicket 8.
 
